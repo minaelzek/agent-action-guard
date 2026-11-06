@@ -1,0 +1,13 @@
+# Tool names are matched exactly, including case.
+allow:
+  - search_docs
+  - get_doc
+  - list_open_tickets
+  - get_ticket
+  - search_knowledge
+deny:
+  - execute_shell
+  - delete_records
+  - transfer_funds
+  - send_email
+  - exfiltrate_file
