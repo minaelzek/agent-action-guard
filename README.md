@@ -7,7 +7,7 @@ Offline guardrails for an agent. `evaluate_prompt` and `evaluate_tool_call` retu
 > [!IMPORTANT]
 > This is a heuristic gate, not a security boundary. It looks for a few obvious phrases. It does not include attack procedures, and it will miss paraphrases.
 
-**Maintainer:** [Mina Elzek](https://github.com/minaelzek) · **Built:** November 2026
+**Maintainer:** [Mina Elzek](https://github.com/minaelzek) · **Built:** March 2026
 
 ## About
 
